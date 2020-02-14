@@ -1,0 +1,10 @@
+{
+  "semi": true,
+  "bracketSpacing": true,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 0,
+  "multiLine": true,
+  "rangeEnd": 0,
+  "rangeStart": 0,
+}
